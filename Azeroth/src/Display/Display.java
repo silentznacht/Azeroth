@@ -105,12 +105,12 @@ public class Display extends Canvas implements Runnable { // creates a window
 
         public void render() {
             BufferStrategy bs = this.getBufferStrategy(); // we want to start our buffer strategy once
-            if (bs == null) {
+            if (bs == null) { // TODO: if there isn't a buffer strategy then this conditional will create them.
                 createBufferStrategy(3); //It just sets up the number of screen buffers you want. So for example createBufferStrategy(2) would mean that you have 2 buffers
                 return;
             }
 
-            screen.render(game);
+            screen.render(game); // renders game
 
             for (int i = 0; i < WIDTH * HEIGHT; i++) { // keeps looping through each pixel to create a range in the x-axis (if confused look at notes: How rendering works?)
                 pixels[i] = screen.pixels[i]; 
