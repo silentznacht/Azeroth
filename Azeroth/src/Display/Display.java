@@ -15,7 +15,7 @@ import javax.swing.plaf.DimensionUIResource;
 import java.awt.Dimension;
 
 
-public class Display extends Canvas implements Runnable { // creates a window
+public class Display extends Canvas implements Runnable { // creates a window, while displaying appopiet displays according to which method is being executed
     
     private static final long serialVersionUID = 1L;
     // Title
@@ -26,8 +26,8 @@ public class Display extends Canvas implements Runnable { // creates a window
     // Screen
         private Screen screen;
         private BufferedImage img;
-    //Pixels
-        private int [] pixels;
+    // Pixels
+        private int [] pixels; 
     // WINDOW SIZES
         public static int WIDTH = 800;
         public static int HEIGHT = 600;
@@ -99,7 +99,7 @@ public class Display extends Canvas implements Runnable { // creates a window
             }
         }
 
-        private void tick() { // tick method for fps
+        private void tick() { // tick method for fps, ticked is also used as a measurment of time (which is helps explain how many times one instance is being repeated)
             game.tick();
         }
 
