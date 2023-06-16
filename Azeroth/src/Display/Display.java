@@ -129,7 +129,7 @@ public class Display extends Canvas implements Runnable { // creates a window, w
                 frame.pack();
                 frame.setResizable(true); // so that the screen doesnt resize
                 frame.setVisible(true);
-                frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // cloes frames if operation is closed
+                frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // closes frames if operation is closed
                 frame.setLocationRelativeTo(null); // sets screen to the middle
                 System.out.print("Running....");
                 game.start(); // initalizes game
