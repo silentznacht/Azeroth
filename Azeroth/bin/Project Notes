@@ -10,3 +10,8 @@ y
 |
 |
 |_______________x
+
+
+What are ticks used for? 
+
+Ticks are widely used in gane development as a measurment of time to explain how one instance is repeated including also being used as a unit of system internal time as well. In our program it is currently being used to show fps.
