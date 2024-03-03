@@ -4,7 +4,7 @@ Welcome to Azeroth, an epic world filled with mystery, danger, and adventure! In
 
 ## Overview
 
-Azeroth is a massive multiplayer online role-playing game (MMORPG) where you can create your own character and explore a vast, open world. Whether you're a seasoned adventurer or new to the world of online gaming, Azeroth offers something for everyone.
+Azeroth is a online role-playing game (MMORPG) where you can create your own character and explore an open world. Whether you're a seasoned adventurer or new to the world of online gaming, Azeroth offers something for everyone.
 
 ## Features
 
