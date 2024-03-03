@@ -20,26 +20,6 @@ Azeroth is a massive multiplayer online role-playing game (MMORPG) where you can
 
 - **Immerse Yourself in the Story**: Experience an engaging storyline filled with memorable characters, rich lore, and unexpected plot twists. Whether you're unraveling the mysteries of ancient civilizations or battling against the forces of darkness, the world of Azeroth is yours to explore.
 
-## Getting Started
-
-To begin your adventure in Azeroth, simply create an account and download the game client from our website. Once installed, log in with your credentials and create your character. From there, the world is yours to explore!
-
-## Support
-
-If you encounter any issues or have any questions while playing Azeroth, our support team is here to help. Visit our website for FAQs, troubleshooting guides, and contact information.
-
-## Join the Community
-
-Connect with fellow adventurers on our forums, social media channels, and in-game chat. Share your experiences, exchange tips and strategies, and form lasting friendships with players from around the world.
-
-## Credits
-
-Azeroth is brought to you by [Your Game Development Company]. We would like to thank our dedicated team of developers, artists, writers, and community managers for their hard work and dedication in bringing this epic world to life.
-
-## Legal
-
-Azeroth is a registered trademark of [Your Game Development Company]. All rights reserved. Unauthorized reproduction or distribution of this game is strictly prohibited.
-
 ## Have Fun!
 
 Thank you for choosing Azeroth as your next gaming adventure. We hope you enjoy exploring the world, battling fearsome foes, and forging unforgettable memories with your fellow adventurers. Good luck, and may the winds of Azeroth guide you on your journey!
